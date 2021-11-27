@@ -1,0 +1,1 @@
+C:\Users\willp\Documents\Projects\BlazorWASMTest\bin\Release\net6.0\publish\web.config
